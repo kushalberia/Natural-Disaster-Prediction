@@ -5,4 +5,6 @@ Uploads : The main code running on Raspberry Pi as Fianly.py
           , The result of dataset training as digitalTrainingData.pkl
           , The mail extraction for PC as WLMailHandler.java
 
-Link of Presentation : 
+Link of Presentation : https://docs.google.com/presentation/d/1EB6dllRygAnB7k9BXlR8nMBQ1QHSMonVL6idKwNlZQk/edit?usp=sharing
+
+Link of Video : https://youtu.be/NJALxBqN-vk
